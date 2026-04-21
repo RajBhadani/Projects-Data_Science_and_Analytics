@@ -73,4 +73,4 @@ jupyter notebook
 
 ## License
 
-Distributed under the [MIT License](LICENSE).
+Distributed under the [Apache 2.0 License](LICENSE).
